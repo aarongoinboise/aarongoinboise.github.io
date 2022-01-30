@@ -31,7 +31,8 @@ git commit
 - [ ] \(Just) Live Tomorrow
 
 :man_shrugging:
+😋
 
 <!-- Invisible -->
 
-[^1]: Footnote.
+[^Footnote 1]: Footnote.
