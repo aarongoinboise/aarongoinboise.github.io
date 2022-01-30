@@ -1,6 +1,6 @@
 # Welcome to **my** GitHub Page
 
-This page can be found [here](aarongoinboise.github.io)
+This page can be found [here](https://aarongoinboise.github.io)
 
 Learn more about me [here](https://github.com/aarongoinboise/hello-world)
 
