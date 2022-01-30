@@ -30,7 +30,6 @@ git commit
 - [x] Live Today
 - [ ] \(Just) Live Tomorrow
 
-:man_shrugging:
 😋
 
 <!-- Invisible -->
