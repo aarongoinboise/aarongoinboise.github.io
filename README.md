@@ -16,7 +16,7 @@ Two commands:
 ```
 git init
 git commit
-'''
+```
 
 
 
